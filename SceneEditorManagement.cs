@@ -1,3 +1,13 @@
+/*
+ https://github.com/owik100/Unity
+
+Place the script in the Assets/Scripts/Editor folder Create the Editor folder if it does not already exist.
+After the script is loaded by the Unity Editor, the settings window will be available from the menu:
+Tools → Scene Editor Management → Open All Scenes Settings Panel
+
+Tested in Unity 2022.3.45f1 and Unity 6.3.
+*/
+
 using UnityEngine;
 using UnityEditor;
 using UnityEditor.SceneManagement;
